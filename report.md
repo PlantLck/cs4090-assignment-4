@@ -2,6 +2,7 @@
 
 # Max Locke
 Github link - https://github.com/PlantLck/cs4090-assignment-4
+Streamlit link - https://maxlockeassignment4.streamlit.app/
 
 ## 1. Executive Summary
 
